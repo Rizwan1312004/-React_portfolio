@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { Download } from "react-bootstrap-icons";
-import headerImg from "../assets/img/header-img.svg";
 import bannerBg from "../assets/img/banner-bg.png";
 import myImg from "../assets/img/my-pic.png";
 import TrackVisibility from "react-on-screen";
